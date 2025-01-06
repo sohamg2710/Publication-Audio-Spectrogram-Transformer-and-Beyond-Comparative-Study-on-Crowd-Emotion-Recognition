@@ -1,0 +1,1 @@
+# Publication-Audio-Spectrogram-Transformer-and-Beyond-Comparative-Study-on-Crowd-Emotion-Recognition
